@@ -41,6 +41,4 @@ def main():
     else:
         print("Enter a question, or use --interactive mode, or display help")
 
-if __name__ == "__main__":
-    main()
 

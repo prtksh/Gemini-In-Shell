@@ -1,0 +1,2 @@
+[console_scripts]
+shell-gemini = gemini_in_shell.gemini_run:main
