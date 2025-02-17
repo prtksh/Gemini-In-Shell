@@ -23,6 +23,7 @@ To install this package:
 ```bash
 pip install gemini-in-shell==0.1.0
 ```
+or you can check it out here : https://pypi.org/project/gemini-in-shell/
 
 ## Usage
 There are two ways to use this package
