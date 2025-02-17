@@ -38,6 +38,15 @@ shell-gemini "<query>"
 ```
 A simpler option if you want a response for just one query without the hassle of having to exit the interactive mode.
 
+## Dependencies
+* Google GenerativeAI (google.generativeai) - For connecting with Gemini and receiving responses to-and-fro. Needs a GEMINI_API_KEY to function and connect.
+* argparse (argparse) - To take the command line query inputs and setup the modes.
+* grpcio (grpcio) - To eliminate the error messages that would be printed in / after Gemini's responses. Version 1.60.0 is the closest and latest version I could find that would allow this.
+* os (os) - Built-in in most Python environments, used to check if the user's .bashrc file has the GEMINI_API_KEY in it for the program to run.
+
+## License
+
+
 
 
 
