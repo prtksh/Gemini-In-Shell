@@ -12,6 +12,7 @@ A Python script that you can download and run in your terminal to access Gemini 
   * [Interactive](#interactive)
   * [Inline](#inline)
 * [Dependencies](#dependencies)
+* [License](#license)
 
 > [!IMPORTANT]  
 > This project is made to run on Linux systems. You need to have a GEMINI-API-KEY already in your environment (or .bashrc) file for you to connect to Gemini.
@@ -45,6 +46,7 @@ A simpler option if you want a response for just one query without the hassle of
 * os (os) - Built-in in most Python environments, used to check if the user's .bashrc file has the GEMINI_API_KEY in it for the program to run.
 
 ## License
+This project is under the MIT License. Check LICENSE for more details.
 
 
 
