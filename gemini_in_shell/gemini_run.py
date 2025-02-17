@@ -1,3 +1,4 @@
+# Copyright (c) 2025 Pratiksha Naik
 #!/usr/bin/env python3
 
 import google.generativeai as genai

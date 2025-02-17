@@ -7,6 +7,7 @@ setup(
     install_requires=[
         'google-generativeai',
         'argparse',
+        'grpcio==1.60.0',
     ],
     entry_points={
         'console_scripts': [
@@ -22,7 +23,7 @@ setup(
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
-        'Operating System :: OS Independent',
+        'Topic :: Software Development :: Libraries :: Python Modules',
     ],
 )
 
