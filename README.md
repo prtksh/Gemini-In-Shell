@@ -21,6 +21,24 @@ To install this package:
 
 ```bash
 pip install gemini-in-shell==0.1.0
+```
+
+## Usage
+There are two ways to use this package
+
+### Interactive
+```bash
+shell-gemini --interactive
+```
+This starts a conversation with Gemini in your terminal with multiple queries one after the other. No need to re-run the package everytime.
+
+### Inline
+```bash
+shell-gemini "<query>"
+```
+A simpler option if you want a response for just one query without the hassle of having to exit the interactive mode.
+
+
 
 
 
