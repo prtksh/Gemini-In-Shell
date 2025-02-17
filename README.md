@@ -33,9 +33,6 @@ shell-gemini --interactive
 ```
 This starts a conversation with Gemini in your terminal with multiple queries one after the other. No need to re-run the package everytime.
 
-![image](https://github.com/user-attachments/assets/c2c0eaa1-e699-4f29-af8a-ec664cbfe8f1)
-
-
 ### Inline
 ```bash
 shell-gemini "<query>"
